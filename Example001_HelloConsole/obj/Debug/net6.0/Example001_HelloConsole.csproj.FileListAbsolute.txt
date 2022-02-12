@@ -1,0 +1,15 @@
+/Users/aleksandrvasilev/Library/Mobile Documents/com~apple~CloudDocs/GB/Examples/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole
+/Users/aleksandrvasilev/Library/Mobile Documents/com~apple~CloudDocs/GB/Examples/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole.deps.json
+/Users/aleksandrvasilev/Library/Mobile Documents/com~apple~CloudDocs/GB/Examples/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole.runtimeconfig.json
+/Users/aleksandrvasilev/Library/Mobile Documents/com~apple~CloudDocs/GB/Examples/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole.dll
+/Users/aleksandrvasilev/Library/Mobile Documents/com~apple~CloudDocs/GB/Examples/Example001_HelloConsole/bin/Debug/net6.0/ref/Example001_HelloConsole.dll
+/Users/aleksandrvasilev/Library/Mobile Documents/com~apple~CloudDocs/GB/Examples/Example001_HelloConsole/bin/Debug/net6.0/Example001_HelloConsole.pdb
+/Users/aleksandrvasilev/Library/Mobile Documents/com~apple~CloudDocs/GB/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.csproj.AssemblyReference.cache
+/Users/aleksandrvasilev/Library/Mobile Documents/com~apple~CloudDocs/GB/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrvasilev/Library/Mobile Documents/com~apple~CloudDocs/GB/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.AssemblyInfoInputs.cache
+/Users/aleksandrvasilev/Library/Mobile Documents/com~apple~CloudDocs/GB/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.AssemblyInfo.cs
+/Users/aleksandrvasilev/Library/Mobile Documents/com~apple~CloudDocs/GB/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.csproj.CoreCompileInputs.cache
+/Users/aleksandrvasilev/Library/Mobile Documents/com~apple~CloudDocs/GB/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.dll
+/Users/aleksandrvasilev/Library/Mobile Documents/com~apple~CloudDocs/GB/Examples/Example001_HelloConsole/obj/Debug/net6.0/ref/Example001_HelloConsole.dll
+/Users/aleksandrvasilev/Library/Mobile Documents/com~apple~CloudDocs/GB/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.pdb
+/Users/aleksandrvasilev/Library/Mobile Documents/com~apple~CloudDocs/GB/Examples/Example001_HelloConsole/obj/Debug/net6.0/Example001_HelloConsole.genruntimeconfig.cache
