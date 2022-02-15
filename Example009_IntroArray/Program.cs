@@ -12,8 +12,9 @@ array[0] = 12;
 Console.WriteLine(array[4]);
 
 int maximum = Max(
-    Max(array[0], Max(array[1], Max(array[2]),
-    Max(array[3], Max(array[4], Max(array[5]),
-    Max(array[6], Max(array[7], Max(array[8]);
+    Max(array[0], array[1], array[2]),
+    Max(array[3], array[4], array[5]),
+    Max(array[6], array[7], array[8])
+);
 
 Console.WriteLine(maximum);
